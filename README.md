@@ -1,6 +1,5 @@
-# Analog Watch - Day 1 Project
+# Analog Watch 
 
-Welcome to Day 1 Project of my 100 Days of Coding journey! 
 Today, I've created a simple analog watch using HTML CSS JS.
 
 ## Description
